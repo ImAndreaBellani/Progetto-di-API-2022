@@ -54,12 +54,10 @@ Progetto di Algoritmi e Strutture dati realizzato per il corso "PROVA FINALE (PR
     <th>170</th>
   </tr>
 </table>
-<br>
 
 ### Strutture dati utilizzate
 
 <br>
-
 ```c
 typedef struct _dict
 	{
