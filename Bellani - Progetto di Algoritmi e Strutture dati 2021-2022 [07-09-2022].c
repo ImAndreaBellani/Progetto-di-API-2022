@@ -1,11 +1,11 @@
 /*
 
 	****************************************************
-	*	                                               *
+	*	                                           *
 	* Progetto di Algoritmi e Strutture dati 2021-2022 *
-	*	                                               *
+	*	                                           *
 	*          realizzato da: Andrea Bellani           *
-	*												   *
+	*						   *
 	*            scritto con: Sublime Text             *
 	*    compilato con: GCC 11 su Ubuntu on Windows    *
 	*                                                  *
