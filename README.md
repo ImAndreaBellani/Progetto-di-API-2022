@@ -47,7 +47,7 @@ Progetto di Algoritmi e Strutture dati realizzato per il corso "PROVA FINALE (PR
     <th>130</th>
   </tr>
   <tr>
-    <th>UPTO30 CUMLAUDE</th>
+    <th>CUMLAUDE</th>
     <th>30,059</th>
     <th>50</th>
     <th>93,7</th>
